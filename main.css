@@ -1,0 +1,12 @@
+body {
+  font-weight: bold;
+  text-align: center;
+}
+
+#timer {
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 15px;
+}
